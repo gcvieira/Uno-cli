@@ -4,9 +4,9 @@
 
 Uno, now directly in your terminal!!
 
-This was originally the final assignment for the Programming Laboratory class (2018/1), which has a focus on introduction in programming.
+This was originally the final assignment for the Programming Laboratory class (2018/1), which has a focus on introduction to programming.
 
-Note that this code was made when I was still an early beginner and have made little to no adjustments after it was done so there is a lot of stuff that can be improved (malloc for example), including the "user interface".
+Note that this code was made when I was still an early beginner and have made little to no adjustments after it was done so there is a lot of stuff that can be improved, including the "user interface".
 
 ## Dependencies
 
@@ -32,4 +32,4 @@ When you or the computer get to 0 cards in hand the game is over and it will pri
 
 ## Contributions and future work
 
-Although contributions are welcome, I consider this project done and do not wish to further contribute to it anymore, because in the future I plan to make a newer version, made with Go, of this same game (CLI style as well) and in english rather than portuguese.
+Although contributions are welcome, I consider this project done and do not wish to further contribute to it anymore, because in the future I plan to make a newer version, made with Go, of this same game (CLI style as well) and in english rather than portuguese. Maybe even a version using ncurses, who knows what the future holds...
